@@ -11,7 +11,6 @@ class Triangle():
         pygame.display.set_caption("Sierpi")
         self.vertices = [[295,5],[5,595],[595,595]]
         # np.random.randint(100,500,(3,2))
-
         
     def run(self):
         self.screen.fill((255,255,255))
